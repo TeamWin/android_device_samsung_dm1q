@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9cb8259d_57cb29f9",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1283
+      },
+      "writtenOn": "2024-07-09T10:55:32Z",
+      "side": 1,
+      "message": "Delete Broken files",
+      "revId": "d9a2d9e8b71d1928e1392b0342ceddafc38dbd19",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
+}
